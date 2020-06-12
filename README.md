@@ -1,4 +1,6 @@
-Penambahan CSS untuk 
+index.html ini akan menampilkan box atau kotak dengan gradasi warna. Gradasi ini dilakukan 
+dengan menambah CSS di class .box. Ini saya lakukan dalam proses memahami CSS. Materi front end yang saya geluti saat ini. 
+Penambahan CSS untuk >> 
 1. .box:
 
    .box {
